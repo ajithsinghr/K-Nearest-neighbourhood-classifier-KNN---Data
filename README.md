@@ -1,4 +1,4 @@
-# K-Nearest-neighbourhood-classifier-KNN---Data
+# K-Nearest-neighbourhood-classifier-KNN---Glass Data
 Prepare a model for glass classification using KNN
 Data Description:
 
